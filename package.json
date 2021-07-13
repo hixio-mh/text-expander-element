@@ -44,7 +44,7 @@
     "mocha": "^7.1.2",
     "rollup": "^1.26.3",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "typescript": "^3.8.3"
+    "typescript": "^3.9.10"
   },
   "eslintIgnore": [
     "build/",
